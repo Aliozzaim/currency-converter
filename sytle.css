@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+}
+.container {
+}
+.content-wrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
+  margin: 20px 0;
+}
+span {
+}
+.header-wrapper {
+  text-align: center;
+}
+.main {
+  background-color: rgb(231, 225, 138);
+  margin: 0 auto;
+  margin-top: 50px;
+  border: 1px solid gray;
+  max-width: 870px;
+  padding: 20px 0;
+  text-align: center;
+}
+input {
+  outline: none;
+}
